@@ -1,4 +1,4 @@
-# mysql-content
+# SQL-content
 
 Keys in sql
 <ul>
